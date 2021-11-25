@@ -1,5 +1,5 @@
-# Results
-## Old & New Comparison
+# My results of Simswap 512 (beta version)
+## Old(L) / New(R) Comparison
 <div>
 <img width=49% src="https://github.com/osushilover/comparison_f_ss/blob/main/old/001.jpg"/>
 <img width=49% src="https://github.com/osushilover/comparison_f_ss/blob/main/new/001.jpg"/>
